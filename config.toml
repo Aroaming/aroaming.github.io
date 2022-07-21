@@ -3,7 +3,7 @@ publishDir = 'docs'
 theme = 'paper'
 author = "Aroaming"
 copyright = "Copyright © 2022; all rights reserved."
-paginate = 3
+paginate = 8
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -13,7 +13,7 @@ title = '装笔笔记'
 
 [params]
     # show header social icons
-    #twitter = 'aroaming2'     # twitter.com/YOUR_TWITTER_ID
+    twitter = 'aroaming2'     # twitter.com/YOUR_TWITTER_ID
     #github = 'YOUR_GITHUB_ID'       # github.com/YOUR_GITHUB_ID
     #instagram = 'YOUR_INSTAGRAM_ID' # instagram.com/YOUR_INSTAGRAM_ID
     rss = true                      # show rss icon with link
